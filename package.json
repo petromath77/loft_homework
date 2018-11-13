@@ -1,0 +1,8 @@
+{
+    "name": "petrom_dz1",
+    "devDependencies": {
+        "bower": "^1.8.4",
+        "browser-sync": "^2.26.3",
+        "gulp": "^3.9.1"
+    }
+}
